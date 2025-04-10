@@ -1,0 +1,3 @@
+git add public/index.html
+git commit -m "add public folder with index.html"
+git push
